@@ -22,18 +22,18 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim ChartArea5 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend5 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Title5 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
-        Dim ChartArea6 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend6 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Title6 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
-        Dim ChartArea7 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend7 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Title7 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
-        Dim ChartArea8 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend8 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Title8 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
+        Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Title1 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
+        Dim ChartArea2 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend2 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Title2 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
+        Dim ChartArea3 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend3 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Title3 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
+        Dim ChartArea4 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend4 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Title4 As System.Windows.Forms.DataVisualization.Charting.Title = New System.Windows.Forms.DataVisualization.Charting.Title()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Label7 = New System.Windows.Forms.Label()
@@ -97,9 +97,9 @@ Partial Class Form1
         Me.Label7.Font = New System.Drawing.Font("Malgun Gothic", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label7.Location = New System.Drawing.Point(233, 409)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(137, 20)
+        Me.Label7.Size = New System.Drawing.Size(199, 25)
         Me.Label7.TabIndex = 13
-        Me.Label7.Text = "Area 1000 Puntos"
+        Me.Label7.Text = "Area de 1000 Puntos"
         '
         'Label6
         '
@@ -107,9 +107,9 @@ Partial Class Form1
         Me.Label6.Font = New System.Drawing.Font("Malgun Gothic", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.Location = New System.Drawing.Point(26, 409)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(128, 20)
+        Me.Label6.Size = New System.Drawing.Size(188, 25)
         Me.Label6.TabIndex = 12
-        Me.Label6.Text = "Area 500 Puntos"
+        Me.Label6.Text = "Area de 500 Puntos"
         '
         'Label5
         '
@@ -117,9 +117,9 @@ Partial Class Form1
         Me.Label5.Font = New System.Drawing.Font("Malgun Gothic", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.Location = New System.Drawing.Point(233, 169)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(128, 20)
+        Me.Label5.Size = New System.Drawing.Size(188, 25)
         Me.Label5.TabIndex = 11
-        Me.Label5.Text = "Area 200 Puntos"
+        Me.Label5.Text = "Area de 200 Puntos"
         '
         'Label4
         '
@@ -127,9 +127,9 @@ Partial Class Form1
         Me.Label4.Font = New System.Drawing.Font("Malgun Gothic", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(26, 169)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(128, 20)
+        Me.Label4.Size = New System.Drawing.Size(150, 20)
         Me.Label4.TabIndex = 10
-        Me.Label4.Text = "Area 100 Puntos"
+        Me.Label4.Text = "Area de 100 Puntos"
         '
         'TextBox2
         '
@@ -200,84 +200,84 @@ Partial Class Form1
         Me.Chart100.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        ChartArea5.Name = "ChartArea1"
-        Me.Chart100.ChartAreas.Add(ChartArea5)
-        Legend5.Name = "Legend1"
-        Me.Chart100.Legends.Add(Legend5)
+        ChartArea1.Name = "ChartArea1"
+        Me.Chart100.ChartAreas.Add(ChartArea1)
+        Legend1.Name = "Legend1"
+        Me.Chart100.Legends.Add(Legend1)
         Me.Chart100.Location = New System.Drawing.Point(3, 3)
         Me.Chart100.Name = "Chart100"
         Me.Chart100.Size = New System.Drawing.Size(445, 325)
         Me.Chart100.TabIndex = 8
         Me.Chart100.Text = "Chart1"
-        Title5.BackColor = System.Drawing.Color.DarkOrchid
-        Title5.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
-        Title5.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Title5.Name = "Title1"
-        Title5.Text = "100 PUNTOS"
-        Me.Chart100.Titles.Add(Title5)
+        Title1.BackColor = System.Drawing.Color.DarkOrchid
+        Title1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
+        Title1.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Title1.Name = "Title1"
+        Title1.Text = "100 PUNTOS"
+        Me.Chart100.Titles.Add(Title1)
         '
         'Chart200
         '
         Me.Chart200.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        ChartArea6.Name = "ChartArea1"
-        Me.Chart200.ChartAreas.Add(ChartArea6)
-        Legend6.Name = "Legend1"
-        Me.Chart200.Legends.Add(Legend6)
+        ChartArea2.Name = "ChartArea1"
+        Me.Chart200.ChartAreas.Add(ChartArea2)
+        Legend2.Name = "Legend1"
+        Me.Chart200.Legends.Add(Legend2)
         Me.Chart200.Location = New System.Drawing.Point(454, 3)
         Me.Chart200.Name = "Chart200"
         Me.Chart200.Size = New System.Drawing.Size(445, 325)
         Me.Chart200.TabIndex = 7
         Me.Chart200.Text = "Chart2"
-        Title6.BackColor = System.Drawing.Color.Thistle
-        Title6.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
-        Title6.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Title6.Name = "Title1"
-        Title6.Text = "200 PUNTOS"
-        Me.Chart200.Titles.Add(Title6)
+        Title2.BackColor = System.Drawing.Color.Thistle
+        Title2.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
+        Title2.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Title2.Name = "Title1"
+        Title2.Text = "200 PUNTOS"
+        Me.Chart200.Titles.Add(Title2)
         '
         'Chart500
         '
         Me.Chart500.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        ChartArea7.Name = "ChartArea1"
-        Me.Chart500.ChartAreas.Add(ChartArea7)
-        Legend7.Name = "Legend1"
-        Me.Chart500.Legends.Add(Legend7)
+        ChartArea3.Name = "ChartArea1"
+        Me.Chart500.ChartAreas.Add(ChartArea3)
+        Legend3.Name = "Legend1"
+        Me.Chart500.Legends.Add(Legend3)
         Me.Chart500.Location = New System.Drawing.Point(3, 334)
         Me.Chart500.Name = "Chart500"
         Me.Chart500.Size = New System.Drawing.Size(445, 325)
         Me.Chart500.TabIndex = 7
         Me.Chart500.Text = "Chart3"
-        Title7.BackColor = System.Drawing.Color.Plum
-        Title7.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
-        Title7.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Title7.Name = "Title1"
-        Title7.Text = "500 PUNTOS"
-        Me.Chart500.Titles.Add(Title7)
+        Title3.BackColor = System.Drawing.Color.Plum
+        Title3.BorderColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
+        Title3.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Title3.Name = "Title1"
+        Title3.Text = "500 PUNTOS"
+        Me.Chart500.Titles.Add(Title3)
         '
         'Chart1000
         '
         Me.Chart1000.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        ChartArea8.Name = "ChartArea1"
-        Me.Chart1000.ChartAreas.Add(ChartArea8)
-        Legend8.Name = "Legend1"
-        Me.Chart1000.Legends.Add(Legend8)
+        ChartArea4.Name = "ChartArea1"
+        Me.Chart1000.ChartAreas.Add(ChartArea4)
+        Legend4.Name = "Legend1"
+        Me.Chart1000.Legends.Add(Legend4)
         Me.Chart1000.Location = New System.Drawing.Point(454, 334)
         Me.Chart1000.Name = "Chart1000"
         Me.Chart1000.Size = New System.Drawing.Size(445, 325)
         Me.Chart1000.TabIndex = 8
         Me.Chart1000.Text = "Chart4"
-        Title8.BackColor = System.Drawing.Color.LavenderBlush
-        Title8.BorderColor = System.Drawing.Color.DarkSlateGray
-        Title8.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Title8.Name = "Title1"
-        Title8.Text = "1000 PUNTOS"
-        Me.Chart1000.Titles.Add(Title8)
+        Title4.BackColor = System.Drawing.Color.LavenderBlush
+        Title4.BorderColor = System.Drawing.Color.DarkSlateGray
+        Title4.Font = New System.Drawing.Font("Malgun Gothic", 10.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Title4.Name = "Title1"
+        Title4.Text = "1000 PUNTOS"
+        Me.Chart1000.Titles.Add(Title4)
         '
         'TabControl1
         '
