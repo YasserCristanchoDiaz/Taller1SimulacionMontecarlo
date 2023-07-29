@@ -1,0 +1,13 @@
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\bin\Debug\SimulacionMontecarlo.exe.config
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\bin\Debug\SimulacionMontecarlo.exe
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\bin\Debug\SimulacionMontecarlo.pdb
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\bin\Debug\SimulacionMontecarlo.xml
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.vbproj.AssemblyReference.cache
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.vbproj.SuggestedBindingRedirects.cache
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.Resources.resources
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.vbproj.GenerateResource.cache
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.vbproj.CoreCompileInputs.cache
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.exe
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.xml
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.pdb
+C:\Users\juana\Source\Repos\Taller1SimulacionMontecarlo\SimulacionMontecarlo\obj\Debug\SimulacionMontecarlo.Form1.resources
